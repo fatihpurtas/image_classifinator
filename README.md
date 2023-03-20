@@ -1,21 +1,17 @@
 # image_classifinator
 
 <h2 align="center">Regards to Doofenshmirtz.</h2>
-
-
 ###
-
 <br clear="both">
 
 <div align="center">
   <img height="270" src="https://64.media.tumblr.com/a3572e5023605f19085461b7d7846c6d/tumblr_n2pmq8yjwz1r38f9do1_500.gifv"  />
 </div>
-
 ###
 
 
 
-## reads text in images and compares them with other images and categorizes them into folders
+## Summary: reads text in images and compares them with other images and categorizes them into folders
 
 you need to install the modules required for the code to run. 
 You can use the following commands to load the modules specified
