@@ -30,7 +30,7 @@ in the import lines in the code:
   pip install python-Levenshtein
 ```
 
-## let me explain the project
+## explanation of the project
 First, a loop is created to scan the images in the directory contained in the `image_dir` variable.
 
 Inside the loop, each image is read and the text in the image is read with the `pytesseract.image_to_string()` function.
