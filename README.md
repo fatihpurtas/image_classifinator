@@ -1,4 +1,4 @@
-# image_classifinator
+<h1 align="center">image_classifinator</h1>
 
 <h2 align="center">Regards to Doofenshmirtz.</h2>
 
